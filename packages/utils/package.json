@@ -25,5 +25,8 @@
   },
   "bugs": {
     "url": "https://github.com/stickrive/xy-cli/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }
